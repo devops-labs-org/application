@@ -1,0 +1,11 @@
+# Default owner for all files
+* @devops-labs-org/devopslab-admin
+
+# Application source code ownership
+/src/ @devops-labs-org/devopslab-admin @devops-labs-org/srikanthchowdry
+
+# Configuration files ownership
+/config/ @devops-labs-org/devopslab-admin @devops-labs-org/srikanthchowdry
+
+# Documentation ownership
+*.md @devops-labs-org/devopslab-admin
